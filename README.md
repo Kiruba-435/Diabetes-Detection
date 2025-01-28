@@ -1,1 +1,1 @@
-# House-Price-Prediction
+# Diabetes-Detection
