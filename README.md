@@ -31,6 +31,8 @@ Methodology:
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/14ccb936-aae5-43f6-80ab-7f6c42e9a305)
+
 
 Conclusion:
 
